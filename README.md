@@ -9,6 +9,7 @@ https://jakedeines.github.io/Responsive-Portfolio/
 ## Images
 ![capture 1](https://user-images.githubusercontent.com/67669417/89261396-d4ef5000-d5e2-11ea-8292-fb07058bed3b.PNG)
 
-![Capture 2](https://user-images.githubusercontent.com/67669417/88472951-6832d200-cecd-11ea-9965-fb7a284de57d.PNG)
+![Capture 2](https://user-images.githubusercontent.com/67669417/89261499-0536ee80-d5e3-11ea-8db8-7241d83ceaa9.PNG)
 
-![Capture 3](https://user-images.githubusercontent.com/67669417/88472955-75e85780-cecd-11ea-960f-b708b5cc158a.PNG)
+![capture 3](https://user-images.githubusercontent.com/67669417/89261505-08ca7580-d5e3-11ea-9dbb-f0d9afeb8fd3.PNG)
+
